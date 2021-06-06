@@ -1,4 +1,4 @@
-# Automated Whatsapp Messages Python Script
+# Automate Whatsapp Messages Python Script
 
 This is a simple script that sends multiple WhatsApp messages using python script. This is used for educational purposes only. Please don't ruin anyone's phone by sending multiple messages.
 
