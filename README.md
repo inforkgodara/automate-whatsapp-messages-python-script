@@ -1,6 +1,6 @@
 # Automated Whatsapp Messages Python Script
 
-This is a simple script which sends multiple whatsapp messages using python script. This is used for educational purpose only. Please don't ruin anyone's phone to sending multiple messages.
+This is a simple script that sends multiple WhatsApp messages using python script. This is used for educational purposes only. Please don't ruin anyone's phone by sending multiple messages.
 
 ## Prerequisites
 
@@ -10,11 +10,12 @@ In order to run the python script, your system must have the following programs/
 
 ## Approach
 * First need to clone this respiratory.
-* Run python script script.py using py script.py in terminal.
-* The script will asks you to enter number of messages and message content in terminal, after entered both information successfully you keep cursor in message bar in weh Whatsapp application to whom you want to send message.
-* The script will sleeps for 3 seconds and then begin to send messages continuously untill and unless messages not sent all.
+* Open web Whatsapp in any browser. link: https://web.whatsapp.com/
+* Run python script script.py using py script.py in the terminal.
+* The script will ask you to enter the number of messages and message content in the terminal, after entered both information successfully you keep the cursor in the message bar in the web Whatsapp application to whom you want to send the message.
+* The script will sleep for 3 seconds and then begin to send messages continuously until and unless messages not send all.
 
-Note: Just use for fun
+Note: Please use just use for fun not to ruin anyone's phone.
 
 ## Code
 ```
@@ -32,4 +33,3 @@ for num in range(number_of_messages):
 
 print('Script executed successfully')
 ```
-Note: The script may not work in case if the HTML of web WhatsApp is changed.
