@@ -2,6 +2,9 @@
 
 This is a simple script that sends multiple WhatsApp messages using python script. This is used for educational purposes only. Please don't ruin anyone's phone by sending multiple messages.
 
+## Demo
+* Video clip on youtube of the script execution. https://youtu.be/tPm7Zvn4pFY
+
 ## Prerequisites
 
 In order to run the python script, your system must have the following programs/packages installed.
@@ -33,3 +36,5 @@ for num in range(number_of_messages):
 
 print('Script executed successfully')
 ```
+
+Video on youtube: https://youtu.be/tPm7Zvn4pFY
