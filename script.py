@@ -1,6 +1,8 @@
 import pyautogui
 import time
 
+# Author @inforkgodara
+
 number_of_messages = int(input('Enter number of messages: '))
 message_content = input('Enter message content: ')
 
